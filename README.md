@@ -38,7 +38,7 @@ Chinese translations for classic IT resources.
 - 🙈 [自己](http://weibo.com/oldratlee)理解粗浅，翻译中不足和不对之处，欢迎 👏
     - 建议，[提交`Issue`](https://github.com/oldratlee/translations/issues/new)
     - 指正，[`Fork`后提通过`Pull Request`贡献修改](https://github.com/oldratlee/translations/fork)
-- 如有文章理解上有疑问 或是 使用过程中碰到些疑惑，请随意 🙌 [提交`Issue`](https://github.com/oldratlee/translations/issues/new) ，一起学习交流讨论！
+- 如有文章理解上的疑问 或是 应用过程中碰到疑惑，请随意 🙌 [提交`Issue`](https://github.com/oldratlee/translations/issues/new) ，一起学习交流讨论！
 
 > 翻译是译者用自己的思想，换一种语言，对原作者想法的重新阐释。鉴于我的学识所限，误解和错译在所难免。如果你能买到本书的原版，且有能力阅读英文，请直接去读原文。因为与之相较，我的译文可能根本不值得一读。  
 > 　— 云风，《[程序员修炼之道 第2版](https://book.douban.com/subject/35006892/)》译者
@@ -99,9 +99,9 @@ Chinese translations for classic IT resources.
 
 # 🎵 按内容主题分类
 
-> 上一节是 [⬆️ **按内容时间排序** ⬆️](#-%E6%8C%89%E5%86%85%E5%AE%B9%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F)
-
 <img src="images/icon.png" width="30%" align="right" />
+
+> 上一节是 [⬆️ **按内容时间排序** ⬆️](#-%E6%8C%89%E5%86%85%E5%AE%B9%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
